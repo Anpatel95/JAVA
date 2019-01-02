@@ -1,0 +1,21 @@
+ATVI	Activision Blizzard
+AXP	American Express
+COKE	Coca-Cola
+CSCO	Cisco
+CVS	Caremark Corp
+DIS	Walt Disney
+EXC	Exelon
+F	Ford Motor
+GOOG 	Google
+HD	The Home Depot
+IBM	Inter Business Mach
+INTC	Intel Corporation
+MSFT	Microsoft Corp
+NIK	NIKE, Inc
+NVS	Novartis
+SNE	Sony
+SPLS	Staples
+T	AT&T
+TXN	Texas Instrument
+WAG	Walgreens
+WMT	Wal-mart

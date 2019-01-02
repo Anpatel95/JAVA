@@ -1,0 +1,3 @@
+This program will input students information, such as name, student number, and test scores using linked list.
+Therefore, user can insert or delete students information as many as he/she wants.
+The main java file is StudentLinkedList.java, and node.java and LinkedList.java is supporting classes for the program.
